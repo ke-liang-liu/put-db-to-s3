@@ -1,0 +1,19 @@
+{
+  "name": "hello-cli",
+  "version": "1.8.8",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "hello": "./bin/index.js"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "yargs": "^13.2.4",
+    "csv-writer": "^1.6.0"
+  }
+}
