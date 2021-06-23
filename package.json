@@ -12,8 +12,9 @@
     "hello": "./bin/index.js"
   },
   "dependencies": {
+    "aws-sdk": "^2.932.0",
+    "csv-writer": "^1.6.0",
     "mysql": "^2.18.1",
-    "yargs": "^13.2.4",
-    "csv-writer": "^1.6.0"
+    "yargs": "^13.2.4"
   }
 }
